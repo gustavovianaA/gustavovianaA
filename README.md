@@ -1,4 +1,4 @@
-### Olá, eu sou Gustavo Viana, desenvolvedor Web. 👋
+##  👋 Oi, eu sou Gustavo Viana de Alencar, desenvolvedor Web.
 
 <!--
 **gustavovianaA/gustavovianaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,3 +12,15 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🌱 Habilidades
+HTML, CSS, JavaScript, jQuery , Bootstrap, PHP, MySQL, WordPress.
+###  🔭 Trabalho
+Atualmente trabalho como desenvolvedor PHP,JS,WordPress Freelancer.
+### 😄 Interesses
+Desenvolvimento web , programação e algorítmos, design gráfico ...<br>
+Também gosto de muitas coisas que fogem à área: matemática, flosofia, arte e música ...
+### 📫 Me encontre na Web ...
+⚡ <a target="_blank" href="https://gustavovianadev.com.br">www.gustavovianadev.com.br</a>
+⚡ <a target="_blank" href="https://gustavovianaa.github.io/">www.gustavovianaa.github.io/</a>
+💬 <a target="_blank" href="https://www.linkedin.com/in/gustavo-viana-5ab0b715b/">LinkedIn</a>
