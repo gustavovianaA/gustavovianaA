@@ -14,12 +14,11 @@
 -->
 
 ### 🌱 Habilidades
-HTML, CSS, JavaScript, jQuery , Bootstrap, PHP, MySQL, WordPress.
+HTML, CSS, JavaScript, jQuery , Bootstrap, PHP, MySQL, WordPress. Estou estudando C#.
 ###  🔭 Trabalho
-Atualmente trabalho como desenvolvedor PHP,JS,WordPress Freelancer.
+Atualmente trabalho como desenvolvedor JS.
 ### 😄 Interesses
-Desenvolvimento web , programação e algorítmos, design gráfico ...<br>
-Também gosto de muitas coisas que fogem à área: matemática, flosofia, arte e música ...
+Desenvolvimento web , programação e algorítmos ...<br>
 ### 📫 Me encontre na Web ...
 ⚡ <a target="_blank" href="https://gustavovianadev.com.br">www.gustavovianadev.com.br</a>
 ⚡ <a target="_blank" href="https://gustavovianaa.github.io/">www.gustavovianaa.github.io/</a>
