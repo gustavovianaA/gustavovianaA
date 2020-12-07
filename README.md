@@ -14,9 +14,7 @@
 -->
 
 ### 🌱 Habilidades
-HTML, CSS, JavaScript, jQuery , Bootstrap, PHP, MySQL, WordPress. Estou estudando C#.
-###  🔭 Trabalho
-Atualmente trabalho como desenvolvedor JS.
+HTML, CSS, JavaScript, jQuery , Bootstrap, PHP, MySQL, WordPress.
 ### 😄 Interesses
 Desenvolvimento web , programação e algorítmos ...<br>
 ### 📫 Me encontre na Web ...
