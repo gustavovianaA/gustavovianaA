@@ -16,7 +16,8 @@
 ### 🌱 Habilidades
 HTML, CSS, JavaScript, jQuery , Bootstrap, PHP (POO + MVC), MySQL, WordPress (Customização + Desenvolvimento de temas).
 ### 😄 Interesses
-Desenvolvimento web , programação e algorítmos ...<br>
+Desenvolvimento web , programação e algorítmos, análise de sistemas e levantamento de requisitos, engenharia de software.<br>
+Matemática, filosofia, leitura e jogos.
 ### 📫 Me encontre na Web ...
 ⚡ <a target="_blank" href="https://gustavovianadev.com.br">www.gustavovianadev.com.br</a>
 ⚡ <a target="_blank" href="https://gustavovianaa.github.io/">www.gustavovianaa.github.io/</a>
