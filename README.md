@@ -14,7 +14,7 @@
 -->
 
 ### 🌱 Habilidades
-HTML, CSS, JavaScript, jQuery , Bootstrap, PHP (POO + MVC), MySQL, WordPress (Customização + Desenvolvimento de temas).
+HTML, CSS, JavaScript, jQuery , Bootstrap, PHP (POO + MVC + API), MySQL, WordPress (Customização + Desenvolvimento de temas).
 ### 😄 Interesses
 Desenvolvimento web , programação e algorítmos, análise de sistemas e levantamento de requisitos, engenharia de software.<br>
 Matemática, filosofia, leitura e jogos.
