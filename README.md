@@ -1,16 +1,22 @@
 <h1 align="center">
-  👋 Olá, seja bem-vindo(a) ao meu perfil!
+  👋 Olá, Mundo! 
 </h1>
-
+<h3 align="center">Seja bem-vindo(a)!</h3>
 <p align="center">
-  <b>Desenvolvedor Full-stack | Estudante do bacharelado em Engenharia da Computação</b>
+  <b>Desenvolvedor Web Full-stack | Estudante do bacharelado em Engenharia da Computação</b>
 </p>
 
 ---
 
 ###  Quem sou
 
-Sou **Gustavo Viana de Alencar**, desenvolvedor Full-Stack com experiência em **PHP, Laravel, HTML, CSS, JavaScript, jQuery, Bootstrap**. 
+Sou **Gustavo Viana de Alencar**, desenvolvedor Web Full-Stack com experiência em **PHP, Laravel, HTML, CSS, JavaScript, jQuery, Bootstrap**. 
+
+Durante minha jornada, atuei em diversas empresas e inclusive já trabalhei em um projeto internacional onde me comunicava em inglês.
+
+Hoje supro algumas demandas para os softwares da empresa onde realizei meu estágio.
+
+Busco uma oportunidade part-time (No máximo 6h diárias), podendo ser presencial, remoto ou híbrido. No momento estou cursando Engenharia da Computação na <a target='_blank' href='https://univesp.br'>**UNIVESP**</a>.
 
 ---
 
